@@ -31,7 +31,7 @@ test_numpy()
 	echo -e "done testing container $1 => numpy\n"
 }
 
-# numpa tests
+# numba tests
 test_numba()
 {
 	echo "testing container $1 => numba"
